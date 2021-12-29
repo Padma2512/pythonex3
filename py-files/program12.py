@@ -1,0 +1,5 @@
+a,b,c=input("enter the marks:").split(",")
+print("the marks 1",a)
+print("the marks 2",b)
+print("the marks 3",c)
+print()

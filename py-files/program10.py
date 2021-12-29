@@ -1,0 +1,5 @@
+a=int(input())
+print(type(a))
+print(a)
+print(id(a))
+print(','.join(a))

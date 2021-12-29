@@ -1,0 +1,10 @@
+a=float(input("enter the value a:"))
+b=float(input("enter the value b:"))
+c=a*b
+print(c)
+print(type(a))
+print(id(a))
+print(type(b))
+print(id(b))
+print(type(c))
+print(id(c))

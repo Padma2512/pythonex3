@@ -1,0 +1,6 @@
+f=open("/home/mathihasu/Desktop/program15.py","r")
+print(f)
+print("name of the file:",f.name)
+line=f.read()
+print("read:",line)
+f.close()

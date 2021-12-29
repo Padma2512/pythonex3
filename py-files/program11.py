@@ -1,0 +1,5 @@
+a,b,c=input("enter your child age:").split(" ")
+print("enter your elder son age:",a)
+print("enter your younger son age:",b)
+print("enter your daughter age:",c)
+print()
